@@ -1,3 +1,3 @@
 #NOTAS
 # webServer + restServer
-ejecutar ```npm install ``` para recostruir los modulos de node
+ejecutar npm install para recostruir los modulos de node
